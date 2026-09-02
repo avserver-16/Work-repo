@@ -1,8 +1,5 @@
-# Work Repo
+# My React Native Builds
 
->My React Native builds
-
-**Author:** Avish Shetty
 [GitHub](https://github.com/avserver-16) · [LinkedIn](https://www.linkedin.com/in/avish-shetty-720603270/) 
 
 ---
