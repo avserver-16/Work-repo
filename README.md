@@ -14,6 +14,7 @@
 | **Cars24-SDUI** | Specific Server Driven UI  used for replicating Cars24 app| 🟡 Demo | [Repo](https://github.com/avserver-16/Cars24) | [Demo](https://www.youtube.com/watch?v=F-_GoUgminE) |
 | **The Farmer** | Farming products e-commerce app | 🟡 Demo | [Repo](https://github.com/username/app-three) | [Demo](https://youtube.com/shorts/wufRMBIdvfY?feature=share) |
 | **Level 2 - Trainer** | Advanced Gym Trainer Management System with personalized workouts, exercise tracking, reports, and trainer–student communication. | 🟡 Demo | [Private] | [Demo](https://www.youtube.com/watch?v=y6fIO-A7N5E) |
+| **PlayPals** | PlayPals is a turf booking and sports rental app that simplifies discovering, booking, and managing sports turfs. It has a cool feature of player pooling depending on the ticket size of a turf | 🟡 Demo | [Repo](http://github.com/avserver-16/PlayPalsAppPersonal) | [Demo]([https://www.youtube.com/watch?v=y6fIO-A7N5E](https://youtu.be/Ggh3ohfow_k?si=TlK5Q0ju5kiCpPxU)) |
 
 
 **Status legend:**
