@@ -4,7 +4,7 @@
 
 ---
 
-## Projects
+## All the Apps built by me
 
 | Name | Description | Status | GitHub | Demo / Live |
 |------|-------------|:------:|:------:|:------------:|
